@@ -1,0 +1,31 @@
+.movie_card {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 340px;
+  border: 2px solid white;
+  text-align: center;
+}
+
+.movie_card img {
+  height: 70%;
+  width: 100%;
+}
+
+.movie_card .title_div {
+  font-weight: bold;
+  font-style: italic;
+  height: 18%;
+  color: aliceblue;
+}
+
+#fav_button {
+  border: none;
+  background-color: black;
+  color: red;
+}
+
+#fav_button:hover {
+  background-color: white;
+}

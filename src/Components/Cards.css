@@ -1,0 +1,10 @@
+.cards {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px 200px;
+  grid-gap: 20px;
+}
+
+.div1 {
+  color: white;
+  font-weight: bold;
+}
